@@ -36,19 +36,19 @@ Finalmente, os dados podem ser consultados e analisados usando o Amazon Athena, 
 
 ## Coleta de Dados (Extração)
 
-Detalhes sobre como configurar a coleta de dados estão disponíveis em [Coleta de Dados (Extração)](coleta-de-dados.md).
+Detalhes sobre como configurar a coleta de dados estão disponíveis em [Coleta de Dados (Extração)](Pipeline_de_dados_telegram.ipynb).
 
 ## Transformação de Dados (ETL)
 
-A segunda etapa envolve a configuração do agendamento para acionar a função Lambda de ETL. Saiba mais em [Transformação de Dados (ETL)](transformacao-de-dados.md).
+A segunda etapa envolve a configuração do agendamento para acionar a função Lambda de ETL. Saiba mais em [Transformação de Dados (ETL)](Pipeline_de_dados_telegram.ipynb).
 
 ## Consulta de Dados com AWS Athena
 
-Após a transformação dos dados, você pode consultar e analisar os dados usando o Amazon Athena. Veja mais informações em [Consulta de Dados com AWS Athena](consulta-de-dados.md).
+Após a transformação dos dados, você pode consultar e analisar os dados usando o Amazon Athena. Veja mais informações em [Consulta de Dados com AWS Athena](Pipeline_de_dados_telegram.ipynb).
 
 ## Contribuindo
 
-Sinta-se à vontade para contribuir para este projeto, relatando problemas, enviando solicitações de pull ou melhorando a documentação. Consulte o [guia de contribuição](CONTRIBUTING.md) para obter mais informações.
+Sinta-se à vontade para contribuir para este projeto, relatando problemas, enviando solicitações de pull ou melhorando a documentação.
 
 ## Licença
 
